@@ -1,0 +1,214 @@
+0000.000 (0) Opened log file at time: Mon, 26 Feb 2024 22:13:15 +0000 on http://localhost/mortowskygraphic.github.io
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.1 WP: 6.4.1 PHP: 8.2.12 (apache2handler, Windows NT DESKTOP-H7ICEDK 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: pl_PL Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 44.9M | 48M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 16134.8 MB
+0000.012 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.016 (0) Semaphore (fd, wp_options) being initialised
+0000.026 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.031 (0) Set semaphore last lock (fd) time to 2024-02-26 22:13:15
+0000.033 (0) Semaphore lock (fd) complete
+0000.037 (0) Backup run: resumption=0, nonce=ad318c0ce45d, file_nonce=ad318c0ce45d begun at=1708985595 (0s ago), job type=backup
+0000.041 (0) Scheduling a resumption (1) after 300 seconds (1708985895) in case this run gets aborted
+0000.049 (0) Checking if we have a zip executable available
+0000.053 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.054 (0) Creation of backups of directories: beginning
+0000.061 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.755 (0) Total entities for the zip file: 312 directories, 2204 files (0 skipped as non-modified), 32.9 MB
+0000.758 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 33647.8 KB, split: 409600 KB)
+0000.790 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.822 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.854 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.885 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.915 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.945 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.975 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.005 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.035 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.065 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.096 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0001.126 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0001.158 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0001.188 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0001.218 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0001.250 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0001.280 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0001.322 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0001.353 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0001.382 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0001.413 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0001.443 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0008.048 (0) Creating zip file manifest (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.list-temp.tmp)
+0008.057 (0) Successfully created zip file manifest (size: 189901)
+0008.136 (0) Created plugins zip (0) - 9794.5 KB in 8.1 s (1213.6 KB/s) (sha1: e80d136067efe69bb75676117801527dd09840e7, sha256: f3eccd45cb9e273c8191760802e42e27a9ce50aabff1e5d117e08e570bc128fa)
+0008.143 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0008.145 (0) No remote despatch: user chose no remote backup service
+0008.147 (0) Recording as successfully uploaded: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip
+0008.150 (0) Deleting zip manifest (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip.list.tmp)
+0008.155 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.156 (0) Number of backup sets in history: 0; groups (db): 1
+0008.157 (0) Number of backup sets in history: 0; groups (files): 1
+0008.160 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0008.169 (0) Beginning creation of dump of themes (split every: 400 MB)
+0008.256 (0) Total entities for the zip file: 39 directories, 291 files (0 skipped as non-modified), 12.1 MB
+0008.259 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 12348.5 KB, split: 409600 KB)
+0008.289 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0008.319 (0) Zip: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0009.287 (0) Creating zip file manifest (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-themes.zip.list-temp.tmp)
+0009.291 (0) Successfully created zip file manifest (size: 20630)
+0009.381 (0) Created themes zip (0) - 11045.7 KB in 1.2 s (9163.8 KB/s) (sha1: f9ce41d39ee576149c31023d4cd517503e9332c8, sha256: abb925ee48d2d11221ed44c47ca647a9d80cb83a14947b614f45696b49b895fe)
+0009.388 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0009.391 (0) No remote despatch: user chose no remote backup service
+0009.392 (0) Recording as successfully uploaded: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-themes.zip
+0009.395 (0) Deleting zip manifest (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-themes.zip.list.tmp)
+0009.399 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.401 (0) Number of backup sets in history: 0; groups (db): 1
+0009.402 (0) Number of backup sets in history: 0; groups (files): 1
+0009.404 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0009.412 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0009.413 (0) Looking for candidates to backup in: C:\xampp\htdocs\mortowskygraphic.github.io/wp-content/uploads
+0009.415 (0) finding files: 2024: adding to list (1)
+0009.416 (0) finding files: simply-static: adding to list (2)
+0009.418 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0009.442 (0) Total entities for the zip file: 30 directories, 21 files (0 skipped as non-modified), 1.6 MB
+0009.443 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 1595.7 KB, split: 409600 KB)
+0009.595 (0) Creating zip file manifest (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-uploads.zip.list-temp.tmp)
+0009.598 (0) Successfully created zip file manifest (size: 2561)
+0009.616 (0) Created uploads zip (0) - 1168.2 KB in 0.2 s (6073.2 KB/s) (sha1: 6f6a6804f159a28a9eddfe25b03ff2db7e0eaee4, sha256: d24ee6b636e9078ce25e51e66c741e686c107904f96a3fc50cfa1e0003083f14)
+0009.621 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0009.622 (0) No remote despatch: user chose no remote backup service
+0009.623 (0) Recording as successfully uploaded: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-uploads.zip
+0009.627 (0) Deleting zip manifest (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-uploads.zip.list.tmp)
+0009.630 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.633 (0) Number of backup sets in history: 0; groups (db): 1
+0009.634 (0) Number of backup sets in history: 0; groups (files): 1
+0009.635 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0009.641 (0) No backup of mu-plugins: excluded by user's options
+0009.644 (0) Beginning backup of other directories found in the content directory (index: 0)
+0009.645 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0009.646 (0) Looking for candidates to backup in: C:\xampp\htdocs\mortowskygraphic.github.io/wp-content
+0009.648 (0) finding files: index.php: adding to list (1)
+0009.648 (0) finding files: languages: adding to list (2)
+0009.649 (0) finding files: plugins: skipping: this is the plugins directory
+0009.650 (0) finding files: themes: skipping: this is the themes directory
+0009.652 (0) finding files: updraft: skipping: this is the updraft directory
+0009.653 (0) finding files: upgrade: skipping: excluded by options
+0009.654 (0) finding files: uploads: skipping: this is the uploads directory
+0009.679 (0) Total entities for the zip file: 3 directories, 76 files (0 skipped as non-modified), 3 MB
+0009.680 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 3053.2 KB, split: 409600 KB)
+0009.845 (0) Creating zip file manifest (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-others.zip.list-temp.tmp)
+0009.847 (0) Successfully created zip file manifest (size: 4526)
+0009.861 (0) Created others zip (0) - 880.3 KB in 0.2 s (4327.1 KB/s) (sha1: aae2370ae85777ce5b8b7a7be03211b855a1cb2d, sha256: 6c0e66e0321da3b5feeca3a0a74990cffeab8651a53e667e920db51bf600a513)
+0009.867 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0009.868 (0) No remote despatch: user chose no remote backup service
+0009.869 (0) Recording as successfully uploaded: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-others.zip
+0009.872 (0) Deleting zip manifest (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-others.zip.list.tmp)
+0009.875 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.876 (0) Number of backup sets in history: 0; groups (db): 1
+0009.877 (0) Number of backup sets in history: 0; groups (files): 1
+0009.880 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0009.891 (0) Saving backup status to database (elements: 8)
+0009.893 (0) Beginning creation of database dump (WordPress DB)
+0009.894 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0009.914 (0) Table wp_options: Total expected rows (via COUNT): 186
+0009.915 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.924 (0) Table wp_options: Rows added in this batch (next record: 211): 182 (uncompressed bytes in this segment=232282) in 0.02 seconds
+0009.933 (0) Table wp_options: finishing file(s) (2, 44.2 KB)
+0009.940 (0) Table wp_users: Total expected rows (via COUNT): 1
+0009.941 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.944 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1182) in 0.01 seconds
+0009.953 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0009.962 (0) Table wp_usermeta: Total expected rows (via COUNT): 19
+0009.964 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.965 (0) Table wp_usermeta: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=1675) in 0.01 seconds
+0009.974 (0) Table wp_usermeta: finishing file(s) (2, 0.9 KB)
+0009.983 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0009.985 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.01 seconds
+0009.994 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0010.002 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0010.004 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0010.009 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1901) in 0.01 seconds
+0010.016 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0010.023 (0) Table wp_links: Total expected rows (via COUNT): 0
+0010.027 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.01 seconds
+0010.035 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0010.043 (0) Table wp_postmeta: Total expected rows (via COUNT): 2
+0010.044 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0010.047 (0) Table wp_postmeta: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=739) in 0.01 seconds
+0010.055 (0) Table wp_postmeta: finishing file(s) (2, 0.4 KB)
+0010.065 (0) Table wp_posts: Total expected rows (via COUNT): 5
+0010.066 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0010.067 (0) Table wp_posts: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=10574) in 0.01 seconds
+0010.076 (0) Table wp_posts: finishing file(s) (2, 3.5 KB)
+0010.082 (0) Table wp_term_relationships: Total expected rows (approximate): 1
+0010.088 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 1 (uncompressed bytes in this segment=696) in 0.01 seconds
+0010.094 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0010.102 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 1
+0010.103 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0010.106 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=858) in 0.01 seconds
+0010.114 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.4 KB)
+0010.123 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0010.127 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.01 seconds
+0010.136 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0010.143 (0) Table wp_terms: Total expected rows (via COUNT): 1
+0010.145 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0010.148 (0) Table wp_terms: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=672) in 0.01 seconds
+0010.156 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0010.163 (0) Table wp_simply_static_pages: Total expected rows (via COUNT): 940
+0010.189 (0) Table wp_simply_static_pages: Rows added in this batch (next record: 1888): 940 (uncompressed bytes in this segment=352670) in 0.03 seconds
+0010.197 (0) Table wp_simply_static_pages: finishing file(s) (2, 13.3 KB)
+0010.199 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\mortowskygraphic.github.io/wp-content/updraft/backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db.gz (line 1925, C:\xampp\htdocs\mortowskygraphic.github.io\wp-content\plugins\updraftplus\backup.php)
+0010.201 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_options.table.tmpr212.gz (1/13/fopen): adding to final database dump
+0010.203 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_options.table.gz (2/13/fopen): adding to final database dump
+0010.206 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_users.table.tmpr2.gz (3/13/fopen): adding to final database dump
+0010.207 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_users.table.gz (4/13/fopen): adding to final database dump
+0010.208 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_usermeta.table.tmpr20.gz (5/13/fopen): adding to final database dump
+0010.209 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_usermeta.table.gz (6/13/fopen): adding to final database dump
+0010.211 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_commentmeta.table.tmpr0.gz (7/13/fopen): adding to final database dump
+0010.212 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_commentmeta.table.gz (8/13/fopen): adding to final database dump
+0010.214 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_comments.table.tmpr2.gz (9/13/fopen): adding to final database dump
+0010.215 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_comments.table.gz (10/13/fopen): adding to final database dump
+0010.217 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_links.table.tmpr0.gz (11/13/fopen): adding to final database dump
+0010.218 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_links.table.gz (12/13/fopen): adding to final database dump
+0010.219 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_postmeta.table.tmpr3.gz (13/13/fopen): adding to final database dump
+0010.220 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_postmeta.table.gz (14/13/fopen): adding to final database dump
+0010.222 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_posts.table.tmpr6.gz (15/13/fopen): adding to final database dump
+0010.224 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_posts.table.gz (16/13/fopen): adding to final database dump
+0010.225 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_term_relationships.table.tmpr100001.gz (17/13/fopen): adding to final database dump
+0010.226 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_term_relationships.table.gz (18/13/fopen): adding to final database dump
+0010.228 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_term_taxonomy.table.tmpr2.gz (19/13/fopen): adding to final database dump
+0010.229 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_term_taxonomy.table.gz (20/13/fopen): adding to final database dump
+0010.230 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_termmeta.table.tmpr0.gz (21/13/fopen): adding to final database dump
+0010.231 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_termmeta.table.gz (22/13/fopen): adding to final database dump
+0010.233 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_terms.table.tmpr2.gz (23/13/fopen): adding to final database dump
+0010.235 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_terms.table.gz (24/13/fopen): adding to final database dump
+0010.236 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_simply_static_pages.table.tmpr1889.gz (25/13/fopen): adding to final database dump
+0010.237 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db-table-wp_simply_static_pages.table.gz (26/13/fopen): adding to final database dump
+0010.245 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db.gz: finished writing out complete database file (66.5 KB)
+0010.255 (0) Total database tables backed up: 13 (backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db.gz, size: 68211, sha1: 5014ab20d7b368093469866c5dfb7ee351e732d8, sha256: 6841ba6edb452ef2f84fa760559bb5c751c2b7c762b73cd4157d675d60f8530b)
+0010.263 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-plugins.zip: plugins: This file has already been successfully uploaded
+0010.263 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-themes.zip: themes: This file has already been successfully uploaded
+0010.264 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-uploads.zip: uploads: This file has already been successfully uploaded
+0010.265 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-others.zip: others: This file has already been successfully uploaded
+0010.267 (0) backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0010.269 (0) Saving backup history. Total backup size: 22.4 MB
+0010.272 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0010.282 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0010.284 (0) No remote despatch: user chose no remote backup service
+0010.285 (0) Recording as successfully uploaded: backup_2024-02-26-2313_MortowskyGraphic_ad318c0ce45d-db.gz
+0010.290 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0010.291 (0) Number of backup sets in history: 1; groups (db): 1
+0010.294 (0) Examining (for databases) backup set with group_id=0, nonce=ad318c0ce45d, datestamp=1708985595 (Feb 26 2024 22:13:15)
+0010.296 (0) This backup set is the backup set just made, so will not be deleted.
+0010.296 (0) Number of backup sets in history: 1; groups (files): 1
+0010.298 (0) Examining (for files) backup set with nonce=ad318c0ce45d, datestamp=1708985595 (Feb 26 2024 22:13:15)
+0010.298 (0) This backup set is the backup set just made, so will not be deleted.
+0010.299 (0) This backup set is the backup set just made, so will not be deleted.
+0010.299 (0) This backup set is the backup set just made, so will not be deleted.
+0010.300 (0) This backup set is the backup set just made, so will not be deleted.
+0010.300 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0010.301 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0010.304 (0) Resume backup (ad318c0ce45d, 0): finish run
+0010.308 (0) Decremented the semaphore (fd) by 1
+0010.311 (0) Semaphore (fd) unlocked
+0010.311 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0010.315 (0) No email will/can be sent - the user has not configured an email address.
+0010.316 (0) The backup succeeded and is now complete
